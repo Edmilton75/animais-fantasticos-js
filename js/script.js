@@ -21,5 +21,3 @@ initMenuMobile();
 initFuncionamento();
 initFetchAnimais();
 initFetchBitcoin();
-
-console.log("object");

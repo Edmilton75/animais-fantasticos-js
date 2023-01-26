@@ -18,3 +18,4 @@ export default function initAccordion() {
     });
   }
 }
+console.log("first");
