@@ -1,4 +1,4 @@
-import debounce from "./debounce";
+import debounce from "./debounce.js";
 
 export default class ScrollAnima {
   constructor(sections) {
